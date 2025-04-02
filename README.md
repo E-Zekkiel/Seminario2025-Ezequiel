@@ -1,24 +1,18 @@
-# Seminario2025
+# Seminario de Actualizacion y Profundizacion2025
 Repositorio para la cursada 2025
 
-# Mi Proyecto Personal
+# Mi Proyecto GitHub **_(Ezequiel Mendoza)_**
 
-Este repositorio contiene una página web desarrollada como práctica del curso de GitHub. Incluye HTML, CSS y JavaScript básicos.
+Este repositorio contiene un `README.md` editado del pototipo original proporcionado por el profesor **Pablo Fernando Melissari**
 
-## Características
-- Interfaz simple y responsive
-- Estilos modernos usando CSS Flexbox
-- Código comentado y estructurado
-
-## Cómo usarlo
+## Cómo se hizo este repositorio
 1. Clona el **repositorio**
-2. Abre `index.html` en tu _navegador_
-3. Personalízalo a tu gusto
+2. Agregar como colaborador al profesor `pfmelissari`
+3. Editar el archivo `README.md`
+4. Guardar el archivo `README.md`
 
 ## Tecnologías utilizadas
-- HTML5
-- CSS3
-- JavaScript
+- Herramienta de edicion GitHub
 
 ## Autor
-**Pablo Fernando Melissari**
+Ezequiel Mendoza
